@@ -26,7 +26,7 @@ pandas, seaborn, matplotlib.pyplot, numpy, warnings, sklearn.preprocessing(MinMa
 
 We can see that they are losing customers only 483 out of their total 3333 customer base, though a somewhat small number is very alarming.
 
-**Distribution of other umeric variables**
+**Distribution of other numeric variables**
 
 ![image](https://github.com/user-attachments/assets/3e11b1dc-7c24-4954-9b0d-ab9684f0ef7c)
 
